@@ -1,0 +1,32 @@
+#rodzic {
+    display: flex;
+}
+#nic {
+    background-color: blue;
+    width: 40%;
+}
+#elo {
+    background-color: deeppink;
+    width: 40%;
+}
+footer {
+    background-color: mediumturquoise;
+    height: 100px;
+    padding: 1px;
+}
+#glowna{
+    background-color: cyan;
+    height: 200px;
+}
+#p {
+    background-color: green;
+    height: 50%;
+}
+#m {
+    background-color: blueviolet;
+    height: 100px;
+}
+#z {
+    background-color: coral;
+    height: 100px;
+}
